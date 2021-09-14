@@ -1,0 +1,28 @@
+﻿body {
+    background-color: beige;
+}
+
+/*h1 {
+    display: inline;
+}*/
+
+
+#logo + h1{
+    display: compact;
+
+
+h2 {
+    display: none;
+}
+
+h3 {
+    visibility: hidden;
+}
+
+#logo {
+    float: initial;
+}
+
+#lingue {
+    clear: left;
+}
